@@ -1,4 +1,4 @@
-name = "gratisan"
+name = "buat-nonton"
 main = "_worker.js"
 compatibility_date = "2024-09-23"
 compatibility_flags = ["nodejs_compat_v2"]
